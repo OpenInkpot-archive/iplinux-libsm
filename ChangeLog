@@ -1,3 +1,9 @@
+commit 27ebe517cabaf038fa65edff0140317f9438adec
+Author: Adam Jackson <ajax@redhat.com>
+Date:   Wed Jul 2 14:00:54 2008 -0400
+
+    libSM 1.1.0
+
 commit 2e8a41efb10ae462e5e43e13e479ca4da0fb0103
 Author: Alan Coopersmith <alan.coopersmith@sun.com>
 Date:   Wed Jun 25 09:55:14 2008 -0700
