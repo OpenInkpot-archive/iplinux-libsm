@@ -1,3 +1,9 @@
+libsm (2:1.1.0-2.1) asimov; urgency=low
+
+  * IPlinux port
+
+ -- Yauhen Kharuzhy <jekhor@gmail.com>  Tue, 04 Aug 2009 17:38:24 +0300
+
 libsm (2:1.1.0-2) unstable; urgency=low
 
   * Upload to unstable.
