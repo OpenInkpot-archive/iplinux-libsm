@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Yauhen Kharuzhy <jekhor@gmail.com>
 Build-Depends: debhelper (>= 5.0.0), pkg-config, x11proto-core-dev (>= 6.8.99.15+cvs.20050722), xtrans-dev, libice-dev (>= 1:1.0.0), uuid-dev, automake, libtool, xutils-dev, quilt
 XCS-Cross-Build-Depends: x11proto-core-dev (>= 6.8.99.15+cvs.20050722), libice-dev (>= 1:1.0.0), uuid-dev
-XCS-Cross-Host-Build-Depends: debhelper (>= 5.0.0), pkg-config, xtrans-dev, automake, libtool, xutils-dev, quilt
+XCS-Cross-Host-Build-Depends: debhelper (>= 5.0.0), pkg-config, xtrans-dev, automake, libtool, xorg-util-macros, quilt
 Standards-Version: 3.7.3
 Vcs-Git: git://git.debian.org/git/pkg-xorg/lib/libsm
 Vcs-Browser: http://git.debian.org/?p=pkg-xorg/lib/libsm.git
